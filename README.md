@@ -25,4 +25,4 @@ And use *en.lproj* as main, script will generate warning for localization file f
 ![warning](/.md/images/example-warning.png)
 
 ### How to use
-![usage-example](/.md/images/how-to-use.png)
+![usage-example](/.md/images/how-to-use.gif)
